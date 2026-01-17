@@ -30,5 +30,5 @@ def get_amazon_product(url):
     return data
 
 # Example Usage
-product_url = "https://www.amazon.com/dp/B07RK4HST7"
+product_url = "https://www.amazon.com/dp/B0CMZ46PHR"
 print(get_amazon_product(product_url))
